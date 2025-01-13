@@ -1,4 +1,4 @@
-const apiKey = 'f799932ad0ed1a9debdec9ca5013b5e3'; // Replace with your Weatherstack API key
+const apiKey = 'ENTER YOUR API KEY'; // Replace with your Weatherstack API key
 
 document.getElementById('searchBtn').addEventListener('click', () => {
     const location = document.getElementById('locationInput').value;
